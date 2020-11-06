@@ -1,0 +1,9 @@
+C:\Code\Callcredit Development Training\Recruitment\Software\Questions\OrderProcessor2\OrderProcessorTests\bin\Debug\OrderProcessorTests.dll
+C:\Code\Callcredit Development Training\Recruitment\Software\Questions\OrderProcessor2\OrderProcessorTests\bin\Debug\OrderProcessorTests.pdb
+C:\Code\Callcredit Development Training\Recruitment\Software\Questions\OrderProcessor2\OrderProcessorTests\bin\Debug\OrderProcessor.dll
+C:\Code\Callcredit Development Training\Recruitment\Software\Questions\OrderProcessor2\OrderProcessorTests\bin\Debug\OrderProcessor.pdb
+C:\Code\Callcredit Development Training\Recruitment\Software\Questions\OrderProcessor2\OrderProcessorTests\obj\Debug\OrderProcessorTests.csprojResolveAssemblyReference.cache
+C:\Code\Callcredit Development Training\Recruitment\Software\Questions\OrderProcessor2\OrderProcessorTests\obj\Debug\OrderProcessorTests.dll
+C:\Code\Callcredit Development Training\Recruitment\Software\Questions\OrderProcessor2\OrderProcessorTests\obj\Debug\OrderProcessorTests.pdb
+C:\Code\Callcredit Development Training\Recruitment\Software\Questions\OrderProcessor2\OrderProcessorTests\bin\Debug\nunit.framework.dll
+C:\Code\Callcredit Development Training\Recruitment\Software\Questions\OrderProcessor2\OrderProcessorTests\bin\Debug\nunit.framework.xml
